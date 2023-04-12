@@ -4,20 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2ff365c-2e0f-4ad1-9da9-801d45cff1cf" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/com/ex1/ex1_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="a2ff365c-2e0f-4ad1-9da9-801d45cff1cf" name="변경" comment="2023.04.12&#10;수많은 커밋들이 후에 나의 노력을 말로 하지 않아도 알릴 수 있는 증거가 아닐까 싶다.&#10;기회가 될때마다 나는 끊임없이 커밋을 할것이고, 문법을 통하여 컴퓨터와 계속해서 대화를 해나갈 것이다.">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ex1/Ex1_0412.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ex1/Ex1_0412_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ex1/Ex1_0412_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ex1/Ex1_0412_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ex1/Ex1_0412_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ex1/Ex1_0412_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ex1/Ex1_0412_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ex1/Ex1_0412_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ex1/Ex1_0412_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ex1/Ex1_0412_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ex1/Ex1_0412_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ex1/HelloServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -27,7 +47,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2OJetAt8OHA4e1C5u8kxNe2y0bm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,10 +58,91 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="애플리케이션.Ex1_0412_11">
+    <configuration name="Ex1_0412_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.ex1.Ex1_0412_10" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.ex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex1_0412_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.ex1.Ex1_0412_11" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.ex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex1_0412_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.ex1.Ex1_0412_7" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.ex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex1_0412_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.ex1.Ex1_0412_8" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.ex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex1_0412_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.ex1.Ex1_0412_9" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.ex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.Ex1_0412_11" />
+        <item itemvalue="애플리케이션.Ex1_0412_10" />
+        <item itemvalue="애플리케이션.Ex1_0412_9" />
+        <item itemvalue="애플리케이션.Ex1_0412_8" />
+        <item itemvalue="애플리케이션.Ex1_0412_7" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
@@ -48,8 +151,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681283325915</updated>
-      <workItem from="1681283327057" duration="2000" />
+      <workItem from="1681283327057" duration="8244000" />
     </task>
+    <task id="LOCAL-00001" summary="2023.04.12&#10;수많은 커밋들이 후에 나의 노력을 말로 하지 않아도 알릴 수 있는 증거가 아닐까 싶다.&#10;기회가 될때마다 나는 끊임없이 커밋을 할것이고, 문법을 통하여 컴퓨터와 계속해서 대화를 해나갈 것이다.">
+      <created>1681283965370</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681283965370</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2023.04.12&#10;수많은 커밋들이 후에 나의 노력을 말로 하지 않아도 알릴 수 있는 증거가 아닐까 싶다.&#10;기회가 될때마다 나는 끊임없이 커밋을 할것이고, 문법을 통하여 컴퓨터와 계속해서 대화를 해나갈 것이다." />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.04.12&#10;수많은 커밋들이 후에 나의 노력을 말로 하지 않아도 알릴 수 있는 증거가 아닐까 싶다.&#10;기회가 될때마다 나는 끊임없이 커밋을 할것이고, 문법을 통하여 컴퓨터와 계속해서 대화를 해나갈 것이다." />
   </component>
 </project>
