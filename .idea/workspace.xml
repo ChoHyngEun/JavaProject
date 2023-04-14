@@ -4,21 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2ff365c-2e0f-4ad1-9da9-801d45cff1cf" name="변경" comment="2023.04.12&#10;수많은 커밋들이 후에 나의 노력을 말로 하지 않아도 알릴 수 있는 증거가 아닐까 싶다.&#10;기회가 될때마다 나는 끊임없이 커밋을 할것이고, 문법을 통하여 컴퓨터와 계속해서 대화를 해나갈 것이다.">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ex1/Ex1_0412.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ex1/Ex1_0412_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ex1/Ex1_0412_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ex1/Ex1_0412_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ex1/Ex1_0412_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ex1/Ex1_0412_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ex1/Ex1_0412_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ex1/Ex1_0412_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ex1/Ex1_0412_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ex1/Ex1_0412_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ex1/Ex1_0412_9.java" afterDir="false" />
+    <list default="true" id="a2ff365c-2e0f-4ad1-9da9-801d45cff1cf" name="변경" comment="2023.04.12&#10;4월 12일 Ex1 예제 12문제 풀이 완료.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ex2/Ex2_0414_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ex2/Ex2_0414_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ex2/Ex2_0414_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ex2/Ex2_0414_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ex2/Ex2_0414_5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/ex1/HelloServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +27,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -54,33 +49,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="애플리케이션.Ex1_0412_11">
-    <configuration name="Ex1_0412_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.ex1.Ex1_0412_10" />
-      <module name="demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.ex1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="애플리케이션.Ex2_0414_4">
     <configuration name="Ex1_0412_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.ex1.Ex1_0412_11" />
       <module name="demo" />
@@ -94,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex1_0412_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.ex1.Ex1_0412_7" />
+    <configuration name="Ex2_0414_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.ex2.Ex2_0414_1" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.ex1.*" />
+          <option name="PATTERN" value="com.example.ex2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex1_0412_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.ex1.Ex1_0412_8" />
+    <configuration name="Ex2_0414_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.ex2.Ex2_0414_2" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.ex1.*" />
+          <option name="PATTERN" value="com.example.ex2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +102,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex1_0412_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.ex1.Ex1_0412_9" />
+    <configuration name="Ex2_0414_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.ex2.Ex2_0414_3" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.ex1.*" />
+          <option name="PATTERN" value="com.example.ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex2_0414_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.ex2.Ex2_0414_4" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.ex2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Ex2_0414_4" />
+        <item itemvalue="애플리케이션.Ex2_0414_3" />
+        <item itemvalue="애플리케이션.Ex2_0414_2" />
+        <item itemvalue="애플리케이션.Ex2_0414_1" />
         <item itemvalue="애플리케이션.Ex1_0412_11" />
-        <item itemvalue="애플리케이션.Ex1_0412_10" />
-        <item itemvalue="애플리케이션.Ex1_0412_9" />
-        <item itemvalue="애플리케이션.Ex1_0412_8" />
-        <item itemvalue="애플리케이션.Ex1_0412_7" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +146,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681283325915</updated>
-      <workItem from="1681283327057" duration="8244000" />
+      <workItem from="1681283327057" duration="8449000" />
+      <workItem from="1681447711387" duration="11169000" />
     </task>
     <task id="LOCAL-00001" summary="2023.04.12&#10;수많은 커밋들이 후에 나의 노력을 말로 하지 않아도 알릴 수 있는 증거가 아닐까 싶다.&#10;기회가 될때마다 나는 끊임없이 커밋을 할것이고, 문법을 통하여 컴퓨터와 계속해서 대화를 해나갈 것이다.">
       <created>1681283965370</created>
@@ -160,14 +156,44 @@
       <option name="project" value="LOCAL" />
       <updated>1681283965370</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2023.04.12&#10;4월 12일 Ex1 예제 12문제 풀이 완료.">
+      <created>1681310425976</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681310425976</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2023.04.12&#10;수많은 커밋들이 후에 나의 노력을 말로 하지 않아도 알릴 수 있는 증거가 아닐까 싶다.&#10;기회가 될때마다 나는 끊임없이 커밋을 할것이고, 문법을 통하여 컴퓨터와 계속해서 대화를 해나갈 것이다." />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.04.12&#10;수많은 커밋들이 후에 나의 노력을 말로 하지 않아도 알릴 수 있는 증거가 아닐까 싶다.&#10;기회가 될때마다 나는 끊임없이 커밋을 할것이고, 문법을 통하여 컴퓨터와 계속해서 대화를 해나갈 것이다." />
+    <MESSAGE value="2023.04.12&#10;4월 12일 Ex1 예제 12문제 풀이 완료." />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.04.12&#10;4월 12일 Ex1 예제 12문제 풀이 완료." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/ex2/Ex2_0414_3.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
