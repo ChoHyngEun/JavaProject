@@ -14,6 +14,6 @@ public class Ex2_0414_5 {
         System.out.print("정수값 B: "); int b = stdIn.nextInt();
         System.out.print("정수값 C: "); int c = stdIn.nextInt();
 
-        
+
     }
 }
